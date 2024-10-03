@@ -16,6 +16,8 @@ git log: mostra o histórico de commits.
 
 git diff: mostra as alterações entre diferentes commits, entre um commit e a working tree, etc.
 
+git push: sincroniza todas as alterações.
+
 ---
 Configuração inicial local
 git config --global user.email "seu email"
